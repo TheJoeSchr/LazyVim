@@ -5,7 +5,7 @@ return {
   -- { "TheJoeSchr/LazyVim", priority = 10000, lazy = false, config = true, version = "*" },
   {
     "TheJoeschr/LazyVim",
-    dir = "~/.config/nvim/lua/LazyVim/",
+    -- dir = "~/.config/nvim/lua/LazyVim/",
     import = "lazyvim.plugins",
     priority = 10000,
     lazy = false,
